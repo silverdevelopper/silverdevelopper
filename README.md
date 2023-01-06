@@ -12,7 +12,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📈: I have to two years experience in Data Engineering. <img src= "https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif?cid=ecf05e47xin32mi1oepljo4nlw52r8zmnxkra7rzddu66mts&rid=giphy.gif&ct=g" width="100px" />
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeForces and read tech articles.
 
 
 ### :hammer_and_wrench: Languages and Tools :
