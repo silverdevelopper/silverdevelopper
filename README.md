@@ -8,7 +8,7 @@
   - [![Linkedin Badge](https://img.shields.io/badge/-ngumus1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngumus1/)
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
-- :telescope: I’m working as a ML Engineer and contributing to AI applications also frontend and backend for building web applications.
+- :telescope: I’m learning ML Engineer and contributing to AI applications also developing frontend and backend for building web applications.
 - 📈: I have to two years experience in Data Engineering. <img src= "https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif?cid=ecf05e47xin32mi1oepljo4nlw52r8zmnxkra7rzddu66mts&rid=giphy.gif&ct=g" width="100px" />
 - :seedling: Exploring Technical Content Writing.
 
