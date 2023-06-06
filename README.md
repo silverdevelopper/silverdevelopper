@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @silverdevelopper. My name is Nurullah Gümüş.
-- 👀 I’m interested in data, machine learning, deep learning, web and mobile development. Jack of All Trades. 🦸‍♂️:
+- 👀 I’m interested in data, machine learning, deep learning, web and mobile development. 
 - 🌱 I’m currently working as ML Engineer.
 - 💞️ I'm open to new job opportunities.
 - 📫 How to reach me:
