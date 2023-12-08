@@ -13,9 +13,9 @@ I'm computer enigneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on CodeForces and read tech articles.
-About Me:
+More About Me:
 
-Hello, I'm M. Nurullah Gümüş, and I'm a dynamic professional with a diverse background in computer engineering, web development, and data engineering. Originally from Diyarbakır, Turkey, I was born on 01.10.1998 and am currently pursuing my studies at the University of Passau.
+I'm a dynamic professional with a diverse background in computer engineering, web development, and data engineering. Originally from Diyarbakır, Turkey, I was born on 01.10.1998 and am currently pursuing my studies at the University of Passau.
 My academic journey led me to graduate from the University Galatasaray in 2022, where I not only excelled in my studies but also took on leadership responsibilities as the root responsible for the IEEE Galatasaray student branch. This experience honed my leadership and community-building skills.
 
 With over five years of hands-on experience as a web developer, I've become adept at problem-solving and thrive in fast-paced development environments. My skills extend to data engineering, where I've contributed to projects and enhanced my technical capabilities, particularly in Airflow.
