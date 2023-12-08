@@ -1,19 +1,30 @@
 ### About Me :
 - 👋 Hi, I’m @silverdevelopper. My name is Nurullah Gümüş.
 - 👀 I’m interested in data, machine learning, deep learning, web and mobile development. 
-- 🌱 I’m currently working as ML Engineer.
+- 🌱 I’m currently working as ai developer.
 - 💞️ I'm open to new job opportunities.
 - 📫 How to reach me:
-  - :mailbox: Email address: gumus.mnur@outlook.com
+  - Email address: gumus.mnur@outlook.com
   - [![Linkedin Badge](https://img.shields.io/badge/-ngumus1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngumus1/)
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I'm computer enigneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany. I study Master of AI Engineering.
 - :telescope: I’m learning ML Engineer and contributing to AI applications also developing frontend and backend for building web applications.
-- 📈: I have to two years experience in Data Engineering. <img src= "https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif?cid=ecf05e47xin32mi1oepljo4nlw52r8zmnxkra7rzddu66mts&rid=giphy.gif&ct=g" width="100px" />
+- 📈: I have to two three experience in Data Engineering. <img src= "https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif?cid=ecf05e47xin32mi1oepljo4nlw52r8zmnxkra7rzddu66mts&rid=giphy.gif&ct=g" width="100px" />
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on CodeForces and read tech articles.
+About Me:
 
+Hello, I'm M. Nurullah Gümüş, and I'm a dynamic professional with a diverse background in computer engineering, web development, and data engineering. Originally from Diyarbakır, Turkey, I was born on 01.10.1998 and am currently pursuing my studies at the University of Passau.
+My academic journey led me to graduate from the University Galatasaray in 2022, where I not only excelled in my studies but also took on leadership responsibilities as the root responsible for the IEEE Galatasaray student branch. This experience honed my leadership and community-building skills.
+
+With over five years of hands-on experience as a web developer, I've become adept at problem-solving and thrive in fast-paced development environments. My skills extend to data engineering, where I've contributed to projects and enhanced my technical capabilities, particularly in Airflow.
+Currently working as a Generative AI Developer since August, I find immense joy in delving into the world of AI engineering. My passion for learning extends to ongoing exploration of new technologies and frameworks, with a particular focus on data science and machine learning.
+In my current role, I design first generative AI applications, conduct research on potential applications, and have successfully built five AI demos for various purposes. My expertise covers the creation of entire AI backends and demo frontends, showcasing my versatility in both development and implementation.
+
+My journey in DevOps/MLOps has further expanded my skill set, allowing me to seamlessly integrate development and operations for optimized development lifecycles. I'm not just a technologist; I bring a creative mindset that constantly seeks out new application possibilities, contributing fresh ideas to the ever-evolving field of Generative AI.
+
+I am eager to bring my technical skills, leadership experience, and passion for learning to new challenges and contribute meaningfully to the field of Generative AI. As a team player, I thrive in collaborative environments, embracing challenges and viewing them as opportunities for growth. My commitment to lifelong learning drives me to stay on the cutting edge of technology, making me well-suited for dynamic and evolving roles in AI and Data Science.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
