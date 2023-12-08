@@ -8,11 +8,12 @@
   - [![Linkedin Badge](https://img.shields.io/badge/-ngumus1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngumus1/)
 
 I'm computer enigneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany. I study Master of AI Engineering.
-- :telescope: I’m learning ML Engineer and contributing to AI applications also developing frontend and backend for building web applications.
+- 🔭 I’m learning ML Engineer and contributing to AI applications also developing frontend and backend for building web applications.
 - 📈: I have to two three experience in Data Engineering. <img src= "https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif?cid=ecf05e47xin32mi1oepljo4nlw52r8zmnxkra7rzddu66mts&rid=giphy.gif&ct=g" width="100px" />
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on CodeForces and read tech articles.
+- ⚡: In my free time, I solve problems on CodeForces and read tech articles, doing tango 🕺💃 (yes I dance 😃) and play 🎹
+
 More About Me:
 
 I'm a dynamic professional with a diverse background in computer engineering, web development, and data engineering. Originally from Diyarbakır, Turkey, I was born on 01.10.1998 and am currently pursuing my studies at the University of Passau.
@@ -26,7 +27,7 @@ My journey in DevOps/MLOps has further expanded my skill set, allowing me to sea
 
 I am eager to bring my technical skills, leadership experience, and passion for learning to new challenges and contribute meaningfully to the field of Generative AI. As a team player, I thrive in collaborative environments, embracing challenges and viewing them as opportunities for growth. My commitment to lifelong learning drives me to stay on the cutting edge of technology, making me well-suited for dynamic and evolving roles in AI and Data Science.
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
